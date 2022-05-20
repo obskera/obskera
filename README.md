@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Angular, Express, Gatsby, UIKit (iOS)**
 
-- 👯 I’m looking to collaborate on [N/A at the moment, but feel free to ask for my help.](//\\//\\//\\)
+- 👯 I’m looking to collaborate on [N/A at the moment, but feel free to ask for my help.](mailto: rob@kairde.com)
 
-- 🤝 I’m looking for help with [N/A right now, but hapy to help others.](//\\//\\//\\)
+- 🤝 I’m looking for help with [N/A right now, but happy to help others.](mailto: rob@kairde.com)
 
 - 👨‍💻 All of my projects are available at [https://kairde.com](https://kairde.com)
 
