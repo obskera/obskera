@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/omgitsobskera" target="blank"><img src="https://img.shields.io/twitter/follow/omgitsobskera?logo=twitter&style=for-the-badge" alt="omgitsobskera" /></a> </p>
 
-- 🔭 I’m currently working on [Kairde Digital Contact](https://kairde.com/app.html)
+- 🔭 I’m currently working on [Kairde Digital Contact](https://kairde.com/app.html) && Games in Godot. 
 
 - 🌱 I’m currently learning **Angular, Express, Gatsby, UIKit (iOS)**
 
