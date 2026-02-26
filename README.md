@@ -39,6 +39,7 @@ I also work in:
 
 ## Current Focus
 
+- Code that runs FAST
 - Designing scalable frontend architecture in React + TypeScript  
 - Building native iOS applications in Swift  
 - Developing engine systems and rendering pipelines in UrsaManus  
@@ -49,7 +50,7 @@ I also work in:
 ## Technical Stack
 
 ### Languages
-TypeScript • JavaScript • Swift • HTML5 • CSS3
+TypeScript • JavaScript • Swift • HTML5 • CSS3 • GDScript
 
 ### Frontend
 React • Next.js • Vite
@@ -58,13 +59,13 @@ React • Next.js • Vite
 Node.js • Express • MongoDB • Firebase
 
 ### Game Development
-Godot • Custom Rendering Systems • Entity Architecture
+Godot • Custom Rendering Systems • Entity Architecture • UrsaManus
 
 ---
 
 ## Philosophy
 
-I prefer building systems over assembling templates.
+Code should run fast. If it's not fast you've already lost people.
 
 Clear state management.  
 Explicit architecture.  
